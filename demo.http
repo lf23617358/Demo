@@ -1,0 +1,8 @@
+POST http://localhost:8080/demo
+Content-Type: application/json
+
+{
+    "transaction_id": "ab93e00b5a96bc1a25b5c4a83305316e",
+    "point_amount": 10,
+    "business_time": "2021-08-22 08:45:07"
+}
